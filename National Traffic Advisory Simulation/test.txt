@@ -1,0 +1,13 @@
+BeiJing TianJin K7727 06:00 08:20 20
+BeiJing TianJin C2551 06:00 06:33 55
+BeiJing TianJin C2001 06:15 06:55 55
+BeiJing TianJin G171 06:00 06:34 56
+BeiJing TianJin G887 07:40 08:20 61
+BeiJing ShenYang D825 07:08 13:59 195
+BeiJing ShenYang G951 06:50 10:17 329
+TianJin ShenYang K1985 06:40 15:30 98
+TianJin ShenYang G1298 06:40 10:40 219
+TianJin ShenYang G1299 08:30 12:30 219
+TianJin ShenYang CA2987 08:15 09:55 240
+BeiJing ShenYang CA1651 09:00 10:30 1080
+BeiJing ShenYang CZ6102 09:00 10:35 740
